@@ -1,6 +1,6 @@
 # BESE294a
 This is main page for the Understanding Bioinformatic Pipelines course.
-The directories are made per project/assigngment as follow:
+The directories are made per project/assignment type as follow:
 1) Class I & II: rnaseq.
 2) Class III: atac-seq.
 3) Class IV: SnakeMake (single-cell).
