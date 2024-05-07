@@ -7,3 +7,4 @@ The directories are made per project/assignment type as follow:
 4) Class V: multiome. 
 5) Class VI: integrative_approach (theoratical excercise).
 6) Class VII: DNAm. 
+7) Final: Metagenomic. 
